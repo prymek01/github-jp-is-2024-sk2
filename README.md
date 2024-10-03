@@ -13,6 +13,6 @@ Datum a čas provedení změny: 2024-10-03, 13:02
 Datum a čas provedení změny: 2024-10-03, 13:14
 Jakub Prýmek
 
-##Další testovací změna provedena přímo na GiHubu.
+## Další testovací změna provedena přímo na GiHubu.
 Datum a čas provedení změny: 2024-10-03, 13:17
 Jakub Prýmek
