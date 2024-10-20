@@ -50,11 +50,27 @@
             Console.WriteLine();
 
             
-            Console.Write("Zadejte : ");
+            Console.Write("Zadejte výšku pravoúhlého trojúhelníku: ");
             int Trojuhelnik;
+            int pomoctrojuhelnik = 1;
             while(!int.TryParse(Console.ReadLine(), out Trojuhelnik)) {
-                Console.Write("Nezadali jste celé číslo. Zadejte znovu: ");
+                Console.Write("Nezadali jste celé číslo. Znovu: ");
             }
+            Console.WriteLine();
+
+            for(int i=1; i<= Trojuhelnik; i++) {
+                
+                for(int j=1; j<=pomoctrojuhelnik;j++){
+                    Console.Write("* ");
+                    System.Threading.Thread.Sleep(System.TimeSpan.FromMilliseconds(100));
+                }
+                
+                Console.WriteLine();
+                pomoctrojuhelnik++;
+                }
+            Console.WriteLine();
+            
+            
 
             
             // Opakování programu
