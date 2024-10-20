@@ -5,7 +5,7 @@
             Console.WriteLine("*************************************");
             Console.WriteLine("******* Součet a součin cifer *******");
             Console.WriteLine("*************************************");
-            Console.WriteLine("*********** Tomáš Žižka *************");
+            Console.WriteLine("*********** Jakub Prymek *************");
             Console.WriteLine("*************************************\n\n");
             Console.WriteLine();
 
