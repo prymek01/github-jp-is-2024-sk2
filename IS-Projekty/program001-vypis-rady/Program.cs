@@ -12,7 +12,7 @@ class Program {
             Console.WriteLine("**************************");
             Console.WriteLine("******* Výpis řady *******");
             Console.WriteLine("**************************");
-            Console.WriteLine("****** Tomáš Žižka *******");
+            Console.WriteLine("****** Jakub Prymek *******");
             Console.WriteLine("**************************\n\n");
             Console.WriteLine();
 
