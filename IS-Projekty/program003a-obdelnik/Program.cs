@@ -41,6 +41,21 @@
             }
             
             Console.WriteLine();
+
+            Console.WriteLine("******************************");
+            Console.WriteLine("*** Ukol - p. Trojuhelnik ***");
+            Console.WriteLine("******************************");
+            Console.WriteLine("******** Jakub Prymek *********");
+            Console.WriteLine("******************************\n\n");
+            Console.WriteLine();
+
+            
+            Console.Write("Zadejte : ");
+            int Trojuhelnik;
+            while(!int.TryParse(Console.ReadLine(), out Trojuhelnik)) {
+                Console.Write("Nezadali jste celé číslo. Zadejte znovu: ");
+            }
+
             
             // Opakování programu
             Console.WriteLine("Pro opakování programu stiskněte klávesu a");

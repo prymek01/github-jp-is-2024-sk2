@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("program003a-obdelnik")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20da311cc8ffbd6ddff20e05868e9b6a01579391")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+097add075782ec25567d2851cbf8665c2353df54")]
 [assembly: System.Reflection.AssemblyProductAttribute("program003a-obdelnik")]
 [assembly: System.Reflection.AssemblyTitleAttribute("program003a-obdelnik")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

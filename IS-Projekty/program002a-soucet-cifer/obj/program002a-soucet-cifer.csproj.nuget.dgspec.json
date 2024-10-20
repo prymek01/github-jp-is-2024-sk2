@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\aaa\\IS-2024\\github-tz-is-2024-sk2\\IS-Projekty\\program002a-soucet-cifer\\program002a-soucet-cifer.csproj": {}
+    "C:\\Users\\kubap\\Desktop\\skola\\github-jp-is-2024-sk2\\IS-Projekty\\program002a-soucet-cifer\\program002a-soucet-cifer.csproj": {}
   },
   "projects": {
-    "C:\\aaa\\IS-2024\\github-tz-is-2024-sk2\\IS-Projekty\\program002a-soucet-cifer\\program002a-soucet-cifer.csproj": {
+    "C:\\Users\\kubap\\Desktop\\skola\\github-jp-is-2024-sk2\\IS-Projekty\\program002a-soucet-cifer\\program002a-soucet-cifer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\aaa\\IS-2024\\github-tz-is-2024-sk2\\IS-Projekty\\program002a-soucet-cifer\\program002a-soucet-cifer.csproj",
+        "projectUniqueName": "C:\\Users\\kubap\\Desktop\\skola\\github-jp-is-2024-sk2\\IS-Projekty\\program002a-soucet-cifer\\program002a-soucet-cifer.csproj",
         "projectName": "program002a-soucet-cifer",
-        "projectPath": "C:\\aaa\\IS-2024\\github-tz-is-2024-sk2\\IS-Projekty\\program002a-soucet-cifer\\program002a-soucet-cifer.csproj",
-        "packagesPath": "C:\\Users\\Uzivatel\\.nuget\\packages\\",
-        "outputPath": "C:\\aaa\\IS-2024\\github-tz-is-2024-sk2\\IS-Projekty\\program002a-soucet-cifer\\obj\\",
+        "projectPath": "C:\\Users\\kubap\\Desktop\\skola\\github-jp-is-2024-sk2\\IS-Projekty\\program002a-soucet-cifer\\program002a-soucet-cifer.csproj",
+        "packagesPath": "C:\\Users\\kubap\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kubap\\Desktop\\skola\\github-jp-is-2024-sk2\\IS-Projekty\\program002a-soucet-cifer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Uzivatel\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\kubap\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
